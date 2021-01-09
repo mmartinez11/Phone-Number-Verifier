@@ -16,6 +16,9 @@ This Android Application checks if a phone number entered follows the US telepho
 
 
 * Back on the original activity press **Button 2**.
+
+![act32](https://user-images.githubusercontent.com/33674827/104109649-c5f98180-5295-11eb-9335-a68c0008a476.PNG)
+
 * If phone number is valid then caller application will open.
 
 ![act3](https://user-images.githubusercontent.com/33674827/104109509-4fa84f80-5294-11eb-9d0a-3cc59090074c.PNG)
