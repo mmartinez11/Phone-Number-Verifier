@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="act1_welcome">Welcome to the Project 1 Application!</string>
+    <string name="act1_button1">Button 1</string>
+    <string name="act1_button2">Button 2</string>
+    <string name="act1_textField">Phone Number</string>
+    <string name="act2_textField1">Enter a Phone Number</string>
+</resources>
